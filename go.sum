@@ -4,6 +4,8 @@ github.com/Wenchy/tableau v0.1.0 h1:gcloq6nd5KRghHksALc81k0A7Kfogyn/smTs8ZbgGZQ=
 github.com/Wenchy/tableau v0.1.0/go.mod h1:H/Ig2i71v375JoK/OwxMRFjBdLVjrzf31Vo22d7UwBM=
 github.com/Wenchy/tableau v0.2.0 h1:gq43gViegI9nEuAEKzVVlhDD71V0agvtBKsg4UO52QI=
 github.com/Wenchy/tableau v0.2.0/go.mod h1:H/Ig2i71v375JoK/OwxMRFjBdLVjrzf31Vo22d7UwBM=
+github.com/Wenchy/tableau v0.3.0 h1:rT71TFEP7pF50LuBzLynoQyt6IqEetcEfKtqXBQNz4M=
+github.com/Wenchy/tableau v0.3.0/go.mod h1:s8018rBWPa4CmAV2hNCoQRDV2xtXbSSxYT8hIQIT5sc=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
@@ -30,6 +32,8 @@ github.com/google/go-cmp v0.3.1/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMyw
 github.com/google/go-cmp v0.4.0/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.0 h1:/QaMHBdZ26BB3SSst0Iwl10Epc+xhTquomWX0oZEB6w=
 github.com/google/go-cmp v0.5.0/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334 h1:VHgatEHNcBFEB7inlalqfNqw65aNkM1lGX2yt3NmbS8=
+github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334/go.mod h1:SK73tn/9oHe+/Y0h39VT4UCxmurVJkR5NA7kMEAOgSE=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=

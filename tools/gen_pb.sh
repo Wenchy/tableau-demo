@@ -9,7 +9,8 @@ output_dir="../"
 test_dir="../protobuf"
 for item in "$test_dir"/* ; do
     echo "$item"
-    if [ -f "$item" ]; then
+    # if [[ -f "$item" && "$item" != "../protobuf/options.proto" ]]; then
+    if [[ -f "$item" ]]; then
         protoc -I"$test_dir" --go_out="$output_dir" "$item"
     fi
 done
